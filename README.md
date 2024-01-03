@@ -1,4 +1,4 @@
-# CNN
+# Convolutional Neural Network (CNN)
 
 CNN stands for Convolutional Neural Network. It is a type of artificial neural network architecture designed for processing structured grid data, such as images and video. CNNs are particularly effective in computer vision tasks, including image recognition, object detection, and image classification.
 
@@ -16,3 +16,7 @@ CNNs have demonstrated significant success in image-related tasks due to their a
 
 
 Within this repository, I am implementing Convolutional Neural Networks (CNNs) on the widely recognized MNIST dataset. MNIST comprises a collection of handwritten digits, ranging from 0 to 9, and serves as a benchmark dataset for tasks such as digit recognition in machine learning
+
+
+
+<a href="https://github.com/burcuozek/CNN/blob/main/CNN_mnist.ipynb">CNN_mnist.ipynb</a> file demonstrates the application of Convolutional Neural Networks (CNN) to the MNIST dataset. This dataset comprises 60,000 examples in the training set and 10,000 examples in the test set, all representing handwritten digits.
